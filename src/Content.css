@@ -1,0 +1,15 @@
+.content {
+    display: flex; 
+    float: right;
+    width: 100%;
+}
+
+.columns {
+    display: flex;
+    flex-direction: column;
+}
+
+.rows {
+    display: flex;
+    flex-direction: row;
+}
