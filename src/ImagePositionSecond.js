@@ -5,8 +5,8 @@ function ImagePositionSecond({path}) {
         <div className="image-position-second">
             <img src={path}></img>
             <div className="heart-button">
-                <img src='./vector2.png'>
-            </img></div>
+                <img src='./vector2.png'></img>
+            </div>
         </div>
     );
   }

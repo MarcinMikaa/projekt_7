@@ -17,8 +17,8 @@ function Content() {
             </div>
             <div className="images">
                 <div className="rows">
-                    <ImagePosition path="./image3.png"/>
-                    <ImagePosition path="./image4.png"/>
+                    <ImagePositionSecond path="./image3.png"/>
+                    <ImagePositionSecond path="./image4.png"/>
                 </div>
                 <div className="columns">
                     <ImagePosition path="./image7.png"/>
