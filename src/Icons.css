@@ -1,13 +1,15 @@
 .links {
     display: flex;
-    padding-top: 5px;
+    padding-top: 25px;
     align-items: center;
 }
 
-.links h2 {
-    font-size: 17px;
+.links a {
+    font-size: 18px;
     color: #000000;
+    font-weight: 700;
     padding-left: 15px;
+    text-decoration: none;
 }
 
 .links img {

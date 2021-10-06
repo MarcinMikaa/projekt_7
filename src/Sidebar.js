@@ -20,11 +20,10 @@ function Sidebar() {
                     <Icons path="activewear.png" text="Activewear"/>
                     <Icons path="gifts.png" text="Gifts & Living"/>
                     <Icons path="inspiration.png" text="Inspiration"/>
-
                 </div>
-                {/* <div className="bottom-icons">
-                    <Icons path="vector.png" data="Help Center"/>
-                </div> */}
+                <div className="bottom-icons">
+                    <Icons path="vector.png" text="Help Center"/>
+                </div>
             </div>
         
       </div>

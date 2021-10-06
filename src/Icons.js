@@ -4,7 +4,7 @@ function Icons({path, text}) {
     return (
         <div className="links">
             <img src={path}></img>
-            <h2>{text}</h2>
+            <a href="#">{text}</a>
         </div>
     );
   }

@@ -1,4 +1,5 @@
 import ImagePosition from './ImagePosition';
+import ImagePositionSecond from './ImagePositionSecond';
 import './Content.css';
 
 function Content() {
@@ -10,8 +11,8 @@ function Content() {
                     <ImagePosition path="./image2.png"/>
                 </div>
                 <div className="rows">
-                    <ImagePosition path="./image5.png"/>
-                    <ImagePosition path="./image6.png"/>
+                    <ImagePositionSecond path="./image5.png"/>
+                    <ImagePositionSecond path="./image6.png"/>
                 </div>
             </div>
             <div className="images">

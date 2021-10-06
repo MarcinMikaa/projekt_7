@@ -4,9 +4,11 @@
     align-items: center;
 }
 
-.navbar h3 {
+.navbar a {
+    color: black;
     font-size: 17px;
-    line-height: 22px;
+    font-weight: 700;
+    text-decoration: none;
     padding-right: 60px;
     margin-top: 0;
 }
