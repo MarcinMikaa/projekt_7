@@ -1,18 +1,18 @@
 .links {
-    display: flex;
-    padding-top: 25px;
-    align-items: center;
+  display: flex;
+  padding-top: 25px;
+  align-items: center;
 }
 
 .links a {
-    font-size: 18px;
-    color: #000000;
-    font-weight: 700;
-    padding-left: 15px;
-    text-decoration: none;
+  font-size: 18px;
+  color: #000000;
+  font-weight: 700;
+  padding-left: 15px;
+  text-decoration: none;
 }
 
 .links img {
-    height: 25px;
-    width: auto;
+  height: 25px;
+  width: auto;
 }
